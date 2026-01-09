@@ -1,4 +1,4 @@
-# st-newsletter-app
+# News letter Streamlit app
 
 ## 📝 About
 This project analyzes subscription data for a newsletter on data science and proposes a web interface to estimate whether a user will subscribe to it based on their profile.
