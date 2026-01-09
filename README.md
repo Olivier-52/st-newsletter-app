@@ -1,7 +1,7 @@
 # st-newsletter-app
 
 ## 📝 About
-This project analyzes a datasciene newsletter open rate, and proposes a graphical interface to estimate whether or not a user will open it based on these characteristics.
+This project analyzes subscription data for a newsletter on data science and proposes a web interface to estimate whether a user will subscribe to it based on their profile.
 
 ---
 
