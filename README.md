@@ -42,12 +42,12 @@ st-newsletter-app/
 ├── .streamlit/
 │   └── config.toml
 ├── data/
-│   └── conversion_data_train.csv # 
+│   └── conversion_data_train.csv
 │   └── models_summary.csv 
 ├── images/
 │   └── news-letter.png 
 ├── model/
-│   └── model.joblib # Model used for prediction
+│   └── model.joblib
 ├── .gitattributes
 ├── .gitignore 
 ├── app.py
