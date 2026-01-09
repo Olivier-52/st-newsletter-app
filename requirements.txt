@@ -2,5 +2,5 @@ pandas
 streamlit  
 plotly
 joblib
-scikit-learn
-catboost
+scikit-learn==1.7.2
+catboost==1.2.8
