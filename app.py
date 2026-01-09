@@ -4,10 +4,10 @@ import plotly.express as px
 import plotly.graph_objects as go
 import joblib
 
-DATA_URL = r".\data\conversion_data_train.csv"
-MODEL_DF_URL = r".\data\models_summary.csv"
-MODEL_URL = r".\model\model.joblib"
-LOGO_URL = r".\images\news-letter.png"
+DATA_URL = "data/conversion_data_train.csv"
+MODEL_DF_URL = "data/models_summary.csv"
+MODEL_URL = "model/model.joblib"
+LOGO_URL = "images/news-letter.png"
 
 ### Config
 st.set_page_config(
